@@ -1,0 +1,27 @@
+/**2012-5-25**/
+
+package com.cq.model.command;
+
+/**
+ * 删除页面的命令
+ * 
+ * @author 陈强
+ * @since 1.0
+ * @version 2012-5-25 陈强新建
+ */
+public class DeletePageCommand extends Command {
+    
+    /**
+     * 此处依赖于谁具体执行命令，如本命令中就是页面组负责执行命令
+     * 
+     * @see com.cq.model.command.Command#execute()
+     */
+    @Override
+    protected void execute() {
+        // TODO 自动生成方法存根注释，方法实现时请删除此注释
+        super.pg.find();
+        super.pg.delete();
+        super.pg.change();
+    }
+    
+}

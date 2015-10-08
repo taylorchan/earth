@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/interfaces/filters
+END
+Filter.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/interfaces/filters/Filter.java
+END
+HighPass.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/interfaces/filters/HighPass.java
+END
+Waveform.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/interfaces/filters/Waveform.java
+END
+LowPass.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/interfaces/filters/LowPass.java
+END
+BandPass.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/interfaces/filters/BandPass.java
+END

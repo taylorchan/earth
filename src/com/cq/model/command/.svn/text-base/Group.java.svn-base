@@ -1,0 +1,21 @@
+/**2012-5-25**/
+
+package com.cq.model.command;
+
+/**
+ * 项目组公共父类
+ * 
+ * @author 陈强
+ * @since 1.0
+ * @version 2012-5-25 陈强新建
+ */
+public abstract class Group {
+    
+    abstract void find();
+    
+    abstract void add();
+    
+    abstract void change();
+    
+    abstract void delete();
+}

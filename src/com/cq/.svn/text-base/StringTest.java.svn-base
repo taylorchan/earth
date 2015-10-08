@@ -1,0 +1,47 @@
+/******************************************************************************
+ * Copyright (C) 2010 ShenZhen ComTop Information Technology Co.,Ltd
+ * All Rights Reserved.
+ * 本软件为深圳康拓普开发研制。未经本公司正式书面同意，其他任何个人、团体不得使用、
+ * 复制、修改或发布本软件.
+ *****************************************************************************/
+
+package com.cq;
+
+import java.io.UnsupportedEncodingException;
+
+/**
+ * @author 陈强
+ * @since 1.0
+ * @version 2011-10-27 陈强新建
+ */
+public class StringTest {
+    
+    /**
+     * @param args
+     * @throws UnsupportedEncodingException
+     */
+    public static void main(String args[]) throws UnsupportedEncodingException {
+        String s1 = "java核心组件学习";
+        String s2 = new String(s1.getBytes(), "iso8859_1");
+        System.out.println(s2);
+        String s3 = new String(s2.getBytes("iso8859_1"), "gb2312");
+        System.out.println(s3);
+        // 从第begin个开始，第end个字符不计算在内
+        String s4 = s3.substring(2, 5);
+        System.out.println(s4);
+        
+        String s5 = "ddd";
+        String s51 = new String("d");
+        String s6 = s51 + "dd";
+        System.out.println(s5 == s6);// false
+        
+        String s61 = "d";
+        String s62 = "dd";
+        String s7 = s61 + s62;// 返回一个新的字符串对象 ，所以s5!=s7
+        System.out.println(s5 == s7);// false
+        System.out.println(s5 == s7.intern());// true
+        
+        String s8 = "dd" + "d";
+        System.out.println(s5 == s8);// true
+    }
+}

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/com/cq/model/factory
+END
+Creator.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/com/cq/model/factory/Creator.java
+END
+Product.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/com/cq/model/factory/Product.java
+END
+ConcreteCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/com/cq/model/factory/ConcreteCreator.java
+END
+ConcreteProduct.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/com/cq/model/factory/ConcreteProduct.java
+END

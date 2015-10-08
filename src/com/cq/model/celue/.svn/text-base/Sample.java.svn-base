@@ -1,0 +1,71 @@
+
+package com.cq.model.celue;
+
+public class Sample {
+    
+    private int number;
+    
+    public synchronized void A() {
+        while (number != 0) {
+            try {
+                wait();
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+            
+        }
+        
+        number = 1;
+        System.out.print("A");
+        notify();
+        
+    }
+    
+    public synchronized void B() {
+        while (number != 1) {
+            try {
+                wait();
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+        }
+        number = 2;
+        System.out.print("B");
+        notify();
+    }
+    
+    public synchronized void C() {
+        while (number != 2) {
+            try {
+                wait();
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+        }
+        number = 0;
+        System.out.print("C");
+        notify();
+    }
+    
+    public static void main(String args[]) {
+        try {
+            System.out.println("do smthing!");
+            return;
+        } catch (Exception e) {
+            
+        } finally {
+            System.out.println("finally!!");
+        }
+    }
+    
+}
+
+class Test {
+    
+    private static int x;
+    
+    public void zz() {
+        System.out.println("x=" + (x + 1));
+    }
+    
+}

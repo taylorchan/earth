@@ -1,0 +1,22 @@
+/**2012-3-19**/
+
+package com.cq.model.decoractor;
+
+/**
+ * @author 陈强
+ * @since 1.0
+ * @version 2012-3-19 陈强新建
+ */
+public class Decorator implements Component {
+    
+    public Decorator(Component component) {
+        this.component = component;
+    }
+    
+    public void operation() {
+        component.operation();
+    }
+    
+    // 此处的component为原始的功能类，这里需要依赖它
+    private final Component component;
+}

@@ -1,0 +1,71 @@
+/**2012-7-18**/
+
+package com.cq.arithmeticinjava.map;
+
+/**
+ * 用邻接表表示图
+ * 
+ * @author Taylor Chan
+ * @since 1.0
+ * @version 2012-7-18 Taylor Chan Creat
+ * @param <T>
+ */
+public class ALGraph {
+    
+    private static final int INITIAL_SIZE = 20;
+    
+    /**
+     * 邻接表的组成
+     */
+    private final VNode[] AdjList = new VNode[INITIAL_SIZE];
+    
+    /**
+     * 当前顶点数
+     */
+    private int vexSize;
+    
+    /**
+     * 当前弧的数目
+     */
+    private int arcSize;
+    
+    /**
+     * 头节点的实现
+     * 
+     * @author Taylor Chan
+     * @since 1.0
+     * @version 2012-7-18 Taylor Chan Creat
+     */
+    private static class VNode {
+        
+        /**
+         * 顶点信息
+         */
+        String nodeInfo;
+        
+        /**
+         * 指向第一条依附该顶点的弧的指针
+         */
+        ArcNode firstArc;
+        
+    }
+    
+    /**
+     * 表节点的实现（弧的描述）
+     * 
+     * @author Taylor Chan
+     * @since 1.0
+     * @version 2012-7-18 Taylor Chan Creat
+     */
+    private static class ArcNode {
+        
+        // 该弧所指向的顶点的位置
+        int adjvex;
+        
+        // 指向下一条弧的指针
+        ArcNode next;
+        
+        // 弧的相关信息
+        String arcInfo;
+    }
+}

@@ -1,0 +1,64 @@
+/**2012-4-18**/
+
+package com.cq.practice;
+
+/**
+ * @author 陈强
+ * @since 1.0
+ * @version 2012-4-18 陈强新建
+ */
+public class ThreadPrint extends Thread {
+    
+    static int count = 1;
+    
+    final int num = 30;
+    
+    static String currentname = "";
+    
+    public ThreadPrint(String id) {
+        super(id);
+    }
+    
+    @Override
+    public void run() {
+        while (true) {
+            try {
+                wait();
+            } catch (InterruptedException e) {
+                // TODO 自动生成异常捕获块存根注释，块实现时请删除此注释
+                e.printStackTrace();
+            }
+            count();
+            if (count > num)
+                break;
+        }
+    }
+    
+    private synchronized void count() {
+        System.out.print(this.getName());
+        count++;
+        if (this.getName().equalsIgnoreCase("c")) {
+            System.out.println();
+        }
+        
+    }
+    
+    public static void main(String args[]) {
+        ThreadPrint t1 = new ThreadPrint("A");
+        ThreadPrint t2 = new ThreadPrint("B");
+        ThreadPrint t3 = new ThreadPrint("C");
+        t1.start();
+        t1.setPriority(10);
+        t2.start();
+        t3.start();
+        if (ThreadPrint.count % 3 == 1) {
+            t1.notify();
+        }
+        if (ThreadPrint.count % 3 == 2) {
+            t2.notify();
+        }
+        if (ThreadPrint.count % 3 == 0) {
+            t3.notify();
+        }
+    }
+}

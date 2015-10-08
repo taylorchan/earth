@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/com/cq/model/bridge
+END
+ConcreteImplementorA.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/com/cq/model/bridge/ConcreteImplementorA.java
+END
+ConcreteImplementorB.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/com/cq/model/bridge/ConcreteImplementorB.java
+END
+IBridge.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/com/cq/model/bridge/IBridge.java
+END
+RefinedAbstraction.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/com/cq/model/bridge/RefinedAbstraction.java
+END
+RefinedAbstraction2.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/com/cq/model/bridge/RefinedAbstraction2.java
+END
+Abstraction.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/com/cq/model/bridge/Abstraction.java
+END
+Implementor.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/com/cq/model/bridge/Implementor.java
+END
+Client.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/com/cq/model/bridge/Client.java
+END

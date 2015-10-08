@@ -1,0 +1,27 @@
+/**2012-3-19**/
+
+package com.cq.model.factory;
+
+/**
+ * @author 陈强
+ * @since 1.0
+ * @version 2012-3-19 陈强新建
+ */
+public class ConcreteCreator {
+    
+}
+
+// 一个工厂对应一个产品，new出对应的工厂即可以得到对应的产品
+class ConcreteCreator1 implements Creator {
+    
+    public Product factory() {
+        return new ConcreteProduct1();
+    }
+}
+
+class ConcreteCreator2 implements Creator {
+    
+    public Product factory() {
+        return new ConcreteProduct2();
+    }
+}

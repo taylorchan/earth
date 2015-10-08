@@ -1,0 +1,36 @@
+/**2012-5-25**/
+
+package com.cq.model.command;
+
+/**
+ * 接口人，负责接收并且执行命令，即为请求的申请方 使请求方不直接依赖于执行方，中间通过命令进行间接的依赖串联 通过不同的命令，可以对执行方的动作进行重组
+ * 
+ * @author 陈强
+ * @since 1.0
+ * @version 2012-5-25 陈强新建
+ */
+public class Invoker {
+    
+    private Command command;
+    
+    /**
+     * 执行命令
+     */
+    public void action() {
+        this.command.execute();
+    }
+    
+    /**
+     * @return 获取 command属性值
+     */
+    public Command getCommand() {
+        return command;
+    }
+    
+    /**
+     * @param command 设置 command 属性值为参数值 command
+     */
+    public void setCommand(Command command) {
+        this.command = command;
+    }
+}

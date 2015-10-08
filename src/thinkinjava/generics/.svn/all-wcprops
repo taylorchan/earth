@@ -1,0 +1,617 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics
+END
+SelfBoundingAndCovariantArguments.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/SelfBoundingAndCovariantArguments.java
+END
+Holder2.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/Holder2.java
+END
+ArrayOfGeneric.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/ArrayOfGeneric.java
+END
+Functional.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/Functional.java
+END
+LimitsOfInference.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/LimitsOfInference.java
+END
+CRGWithBasicHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/CRGWithBasicHolder.java
+END
+Mixins.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/Mixins.cpp
+END
+DogsAndRobots.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/DogsAndRobots.java
+END
+Generators.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/Generators.java
+END
+EpicBattle.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/EpicBattle.java
+END
+FactoryConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/FactoryConstraint.java
+END
+Wildcards.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/Wildcards.java
+END
+Fibonacci.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/Fibonacci.java
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/build.xml
+END
+GenericWriting.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/GenericWriting.java
+END
+InstantiateGenericType.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/InstantiateGenericType.java
+END
+CheckedList.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/CheckedList.java
+END
+InstantiateGenericType.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/InstantiateGenericType.cpp
+END
+IterableFibonacci.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/IterableFibonacci.java
+END
+CountedObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/CountedObject.java
+END
+LinkedStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/LinkedStack.java
+END
+CompilerIntelligence.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/CompilerIntelligence.java
+END
+GenericArray2.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/GenericArray2.java
+END
+SimpleQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/SimpleQueue.java
+END
+Holder3.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/Holder3.java
+END
+GenericMethods.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/GenericMethods.java
+END
+UnboundedWildcards1.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/UnboundedWildcards1.java
+END
+LatentReflection.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/LatentReflection.java
+END
+GenericVarargs.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/GenericVarargs.java
+END
+ErasureAndInheritance.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/ErasureAndInheritance.java
+END
+Mixins.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/Mixins.java
+END
+CaptureConversion.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/CaptureConversion.java
+END
+GenericArrayWithTypeToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/GenericArrayWithTypeToken.java
+END
+TupleTest2.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/TupleTest2.java
+END
+NotSelfBounded.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/NotSelfBounded.java
+END
+GenericArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/GenericArray.java
+END
+FilledListMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/FilledListMaker.java
+END
+RandomList.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/RandomList.java
+END
+Manipulator2.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/Manipulator2.java
+END
+GenericsAndCovariance.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/GenericsAndCovariance.java
+END
+OrdinaryArguments.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/OrdinaryArguments.java
+END
+ComparablePet.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/ComparablePet.java
+END
+ReturnGenericType.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/ReturnGenericType.java
+END
+ByteSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/ByteSet.java
+END
+BasicHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/BasicHolder.java
+END
+WatercolorSets.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/WatercolorSets.java
+END
+ListOfGenerics.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/ListOfGenerics.java
+END
+NonCovariantGenerics.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/NonCovariantGenerics.java
+END
+SimpleDogsAndRobots.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/SimpleDogsAndRobots.java
+END
+MultipleInterfaceVariants.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/MultipleInterfaceVariants.java
+END
+SimpleHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/SimpleHolder.java
+END
+UseList.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/UseList.java
+END
+RestrictedComparablePets.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/RestrictedComparablePets.java
+END
+ClassTypeCapture.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/ClassTypeCapture.java
+END
+Store.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/Store.java
+END
+SuperTypeWildcards.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/SuperTypeWildcards.java
+END
+Templates.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/Templates.cpp
+END
+UnboundedWildcards2.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/UnboundedWildcards2.java
+END
+SelfBoundingMethods.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/SelfBoundingMethods.java
+END
+Erased.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/Erased.java
+END
+GenericReading.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/GenericReading.java
+END
+GenericsAndReturnTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/GenericsAndReturnTypes.java
+END
+SimplerPets.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/SimplerPets.java
+END
+Fill2.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/Fill2.java
+END
+DogsAndRobots.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/DogsAndRobots.cpp
+END
+GenericHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/GenericHolder.java
+END
+UseList2.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/UseList2.java
+END
+CovariantReturnTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/CovariantReturnTypes.java
+END
+Unconstrained.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/Unconstrained.java
+END
+CuriouslyRecurringGeneric.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/CuriouslyRecurringGeneric.java
+END
+Holder.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/Holder.java
+END
+Manipulator3.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/Manipulator3.java
+END
+ArrayOfGenericReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/ArrayOfGenericReference.java
+END
+SelfBounding.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/SelfBounding.java
+END
+HasF.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/HasF.java
+END
+BankTeller.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/BankTeller.java
+END
+HijackedInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/HijackedInterface.java
+END
+ExplicitTypeSpecification.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/ExplicitTypeSpecification.java
+END
+Apply.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/Apply.java
+END
+DynamicProxyMixin.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/DynamicProxyMixin.java
+END
+CreatorGeneric.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/CreatorGeneric.java
+END
+BasicBounds.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/BasicBounds.java
+END
+Performs.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/Performs.java
+END
+Holder1.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/Holder1.java
+END
+ArrayMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/ArrayMaker.java
+END
+Manipulation.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/Manipulation.java
+END
+PrimitiveGenericTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/PrimitiveGenericTest.java
+END
+CovariantArrays.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/CovariantArrays.java
+END
+PlainGenericInheritance.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/PlainGenericInheritance.java
+END
+ListOfInt.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/ListOfInt.java
+END
+InheritBounds.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/InheritBounds.java
+END
+ClassCasting.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/ClassCasting.java
+END
+ThrowGenericException.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/ThrowGenericException.java
+END
+NeedCasting.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/NeedCasting.java
+END
+TupleList.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/TupleList.java
+END
+Fill.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/Fill.java
+END
+GenericCast.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/GenericCast.java
+END
+ErasedTypeEquivalence.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/ErasedTypeEquivalence.java
+END
+LostInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/LostInformation.java
+END
+TupleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/TupleTest.java
+END
+ListMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/ListMaker.java
+END
+BasicGeneratorDemo.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/12/trunk/%20fireman%20--username%20mrtaylorchan@gmail.com/earth/src/thinkinjava/generics/BasicGeneratorDemo.java
+END

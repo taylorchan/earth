@@ -1,0 +1,22 @@
+/**2012-5-25**/
+
+package com.cq.model.command;
+
+/**
+ * 命令公共父类
+ * 
+ * @author 陈强
+ * @since 1.0
+ * @version 2012-5-25 陈强新建
+ */
+public abstract class Command {
+    
+    // 具体的命令执行者，干活的人，命令需要依赖于它
+    protected RequirementGroup requirementGroup = new RequirementGroup();
+    
+    protected PageGroup pg = new PageGroup();
+    
+    protected CodeGroup cg = new CodeGroup();
+    
+    protected abstract void execute();
+}

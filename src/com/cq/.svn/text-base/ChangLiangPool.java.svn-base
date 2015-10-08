@@ -1,0 +1,35 @@
+/******************************************************************************
+ * Copyright (C) 2010 ShenZhen ComTop Information Technology Co.,Ltd
+ * All Rights Reserved.
+ * 本软件为深圳康拓普开发研制。未经本公司正式书面同意，其他任何个人、团体不得使用、
+ * 复制、修改或发布本软件.
+ *****************************************************************************/
+
+package com.cq;
+
+/**
+ * Java 中，每个已加载的类会保存一个常量池，这是没错的。 但这个常量池只是该类的字面值（例如类名、方法名）和符号引用的有序集合。 而字符串常量池，是整个
+ * JVM 共享的。
+ * 
+ * @author 陈强
+ * @since 1.0
+ * @version 2011-10-28 陈强新建
+ */
+public class ChangLiangPool {
+    
+    public static void main(String args[]) {
+        PoolTest1 t = new PoolTest1();
+        PoolTest2 t2 = new PoolTest2();
+        System.out.println(t.s == t2.s);
+    }
+}
+
+class PoolTest1 {
+    
+    String s = "2";
+}
+
+class PoolTest2 {
+    
+    String s = "2";
+}

@@ -1,0 +1,20 @@
+/**2012-3-19**/
+
+package com.cq.model.abstractfactory;
+
+/**
+ * @author 陈强
+ * @since 1.0
+ * @version 2012-3-19 陈强新建
+ */
+public class ConcreteCreator2 {
+    
+    public ProductA factoryA() {
+        return new ProductA1();
+    }
+    
+    public ProductB factoryB() {
+        return new ProductB1();
+    }
+    
+}
